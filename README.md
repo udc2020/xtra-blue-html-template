@@ -1,3 +1,5 @@
 # Xtra Blue html css tamplate 
-# Xtra Blue html css tamplate \n ## Wordpress Course 
-## wordpress course   
+## Wordpress Course 
+
+
+![xtra blue](https://raw.githubusercontent.com/udc2020/xtra-blue-html-template/main/screenshot.png)")
